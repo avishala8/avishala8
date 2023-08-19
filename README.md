@@ -45,7 +45,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/2ZOaTclOqD4q/express-js" title="express" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/avishala8/abhis/blob/main/icons8-express-js.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
