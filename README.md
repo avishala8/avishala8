@@ -23,7 +23,7 @@
 </div>
 
 <h2 align="center">
-  😮 I'm Abhishek Vishala, a passionate Software/Web Developer 👌
+  😮 I'm Abhishek Vishala, a passionate Full Stack Developer 👌
   
 </h2>
 
