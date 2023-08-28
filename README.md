@@ -32,7 +32,7 @@
 ### 👨‍💻:About Me  :
 
 
-# 🔭 I’m currently working as Programmer Analyst in @Cognizant <br/>
+< 🔭 I’m currently working as Programmer Analyst in @Cognizant <br/> >
  🌱 I’m currently Exploring Technical aspects of Industry<br/>
  💬 Ask me about Java,C , HTML, CSS, JS, PHP, SQL,Node.js, MongoDB, Express.js, React.js <br/>
  📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-vishala/)<br/>
